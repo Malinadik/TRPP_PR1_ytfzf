@@ -3,6 +3,7 @@ Change 2
 Change 3
 Change 4
 Change 5
+Change 6
 <p align="center">
     <a> <img src=.assets/logo.png></a>
     <br />
