@@ -1,6 +1,9 @@
 С1
 C2
 C3
+Change 1
+Change 2
+Change 3
 <p align="center">
     <a> <img src=.assets/logo.png></a>
     <br />
